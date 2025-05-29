@@ -1,0 +1,138 @@
+.wow {
+   background-image: url("IMGS/LOGINN.jpg");
+    background-size: cover; /* Ensures the image covers the entire div */
+    background-position: center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    width: 100%; /* Ensures it takes the full width of the div */
+    height: 100%; /* Ensures it takes the full height of the div */
+    border-radius: 10px;
+
+
+    
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    padding-right: 20px;
+}
+
+.top2{
+    display: flex;
+    justify-content: end;
+
+}
+
+.log{
+    justify-content: center;
+}
+
+#rule {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.1em;
+    margin: 10px 0 20px; 
+ } 
+ 
+ #rule span { 
+     background:#fff; 
+     padding:0 10px; 
+ }
+
+ .foot{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 20px;
+ }
+
+ .main{
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+ }
+
+.account{
+    text-align: center;
+}
+
+.true{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.drey{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.real{
+    display: flex;
+    justify-content: flex-start;
+    
+}
+
+.pad{
+    padding-top: 20px;
+}
+
+.pad2{
+    padding-top: 5px;
+}
+
+.pass{
+    text-decoration: underline;
+}
+
+.cas{
+    padding-right: 20px;
+}
+
+.box{
+    width: 50px;
+    height: 50px;
+    background-color: #93d4fe;
+    border-radius: 50px;
+}
+
+.box2{
+    width: 50px;
+    height: 50px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.side{
+height: 100vh;
+  }
+
+  .head{
+    height: 50vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+
+  }
+
+  .tail{
+    height: 47vh;
+    padding-left: 30px;
+    padding-top: 50px;
+  }
+
+  .rsd{
+    padding-left: 30px;
+  }
+  .rsd2{
+    border-left: 1px solid gray;
+  }
+
+  .prt{
+    padding-left: 20px;
+  }
+
+
+
